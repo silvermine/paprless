@@ -1,0 +1,27 @@
+{
+   "name": "paprless",
+   "title": "jQuery Paprless",
+   "description": "jQuery plugin for creating newspaper-like layouts",
+   "version": "0.1.0",
+   "homepage": "https://github.com/silvermine/paprless",
+   "author": {
+      "name": "Jeremy Thomerson",
+      "email": "jeremy@thomersonfamily.com",
+      "url": "http://jeremythomerson.com"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git://github.com/silvermine/paprless.git"
+   },
+   "bugs": "https://github.com/silvermine/paprless/issues",
+   "licenses": [
+      {
+         "type": "MIT",
+         "url": "https://github.com/silvermine/paprless/blob/master/LICENSE-MIT"
+      }
+   ],
+   "dependencies": {
+      "jquery": ">=1.9"
+   },
+   "keywords": []
+}
