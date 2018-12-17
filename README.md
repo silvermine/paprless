@@ -1,3 +1,8 @@
+# WARNING: UNMAINTAINED PROJECT
+
+This project is no longer supported or maintained. Please consider using a different
+project for new development.
+
 # jQuery Paprless
 
 jQuery plugin for creating newspaper-like layouts
